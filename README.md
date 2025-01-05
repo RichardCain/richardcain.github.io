@@ -1,2 +1,3 @@
-# richardcain.github.io
-repo for my public website
+# Primis LTD
+Primis LTD specialises in IT solutions for research.
+For details, please contact Richard Cain cainrichard@gmail.com
